@@ -1,0 +1,18 @@
+{
+    "name": "ttmama/solumen",
+    "description": "Lumen & Swoole",
+    "type": "library",
+    "keywords": ["lumen","swoole"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Robert.Liu",
+            "email": "dapeng.liu007@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.0.0"
+    },
+    "bin": ["solumen"]
+}
+
